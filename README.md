@@ -1,6 +1,6 @@
 # Lucas Costas
 
-Financial & Data Analytics with focus on FP&A, financial reporting and business-oriented analysis.
+Financial & Data Analytics with focus on FP&A, financial reporting and decision support.
 
 **Core stack:** Power BI · SQL · Python · Excel  
 **Interests:** FP&A · Control de gestión · Financial analysis · Valuation basics
