@@ -1,16 +1,15 @@
-## Hi there 👋
+# Lucas Costas
 
-<!--
-**lucascostas16/lucascostas16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Financial & Data Analytics with focus on FP&A, financial reporting and business-oriented analysis.
 
-Here are some ideas to get you started:
+**Core stack:** Power BI · SQL · Python · Excel  
+**Interests:** FP&A · Control de gestión · Financial analysis · Valuation basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio
+- 📊 FP&A Reporting Pack (in progress)
+- 📈 Financial & Risk Analysis (in progress)
+- 🗄️ SQL Case Studies (in progress)
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/lucas-costas-gonz%C3%A1lez-51b259235/
+- Location: Spain (Madrid time)
